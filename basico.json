@@ -1,0 +1,155 @@
+{
+  "titulo": "Básico",
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se dice 'hola' en alemán?",
+      "opciones": ["Hallo", "Tschüss", "Danke", "Bitte"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se dice 'adiós' en alemán?",
+      "opciones": ["Hallo", "Bitte", "Tschüss", "Ja"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Danke'?",
+      "opciones": ["Gracias", "Perdón", "Hola", "Buenos días"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Bitte'?",
+      "opciones": ["Gracias", "Por favor", "Casa", "Agua"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'sí' en alemán?",
+      "opciones": ["Nein", "Ja", "Hallo", "Gut"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'no' en alemán?",
+      "opciones": ["Ja", "Bitte", "Nein", "Tag"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Hund'?",
+      "opciones": ["Gato", "Perro", "Pájaro", "Caballo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Katze'?",
+      "opciones": ["Gato", "Perro", "Conejo", "Ratón"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Haus'?",
+      "opciones": ["Escuela", "Puerta", "Casa", "Ventana"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Wasser'?",
+      "opciones": ["Leche", "Agua", "Pan", "Café"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'libro' en alemán?",
+      "opciones": ["Heft", "Buch", "Stift", "Tisch"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'escuela' en alemán?",
+      "opciones": ["Schule", "Kirche", "Stadt", "Straße"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Apfel'?",
+      "opciones": ["Naranja", "Plátano", "Manzana", "Pera"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué color significa 'Rot'?",
+      "opciones": ["Azul", "Rojo", "Verde", "Negro"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué color significa 'Blau'?",
+      "opciones": ["Rojo", "Blanco", "Amarillo", "Azul"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué significa 'Grün'?",
+      "opciones": ["Verde", "Gris", "Negro", "Marrón"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Weiß'?",
+      "opciones": ["Negro", "Blanco", "Azul", "Rojo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'padre' en alemán?",
+      "opciones": ["Mutter", "Bruder", "Vater", "Sohn"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se dice 'madre' en alemán?",
+      "opciones": ["Mutter", "Tochter", "Oma", "Tante"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Bruder'?",
+      "opciones": ["Primo", "Hermano", "Padre", "Amigo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Freund'?",
+      "opciones": ["Vecino", "Profesor", "Amigo", "Abuelo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Tag'?",
+      "opciones": ["Semana", "Mes", "Hora", "Día"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué significa 'Nacht'?",
+      "opciones": ["Tarde", "Noche", "Mañana", "Mediodía"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Brot'?",
+      "opciones": ["Queso", "Leche", "Pan", "Fruta"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se dice 'leche' en alemán?",
+      "opciones": ["Milch", "Fisch", "Ei", "Saft"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Auto'?",
+      "opciones": ["Bicicleta", "Avión", "Barco", "Coche"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué significa 'Baum'?",
+      "opciones": ["Árbol", "Flor", "Montaña", "Bosque"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se dice 'sol' en alemán?",
+      "opciones": ["Mond", "Sonne", "Stern", "Himmel"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Mond'?",
+      "opciones": ["Sol", "Nube", "Luna", "Estrella"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Guten Morgen'?",
+      "opciones": ["Buenas noches", "Buenas tardes", "Buenos días", "Adiós"],
+      "correcta": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "titulo": "Difícil",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué caso requiere normalmente la preposición 'mit'?",
+      "opciones": ["Nominativo", "Acusativo", "Dativo", "Genitivo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta? 'Ich fahre ___ dem Bus.'",
+      "opciones": ["mit", "für", "durch", "gegen"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el artículo dativo de 'der Mann'?",
+      "opciones": ["den", "dem", "des", "die"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el artículo acusativo de 'der Mann'?",
+      "opciones": ["dem", "die", "den", "des"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el participio de pasado de 'gehen'?",
+      "opciones": ["gegeht", "ging", "gegangen", "geht"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el participio de pasado de 'sehen'?",
+      "opciones": ["gesehen", "geseht", "sahen", "gesieht"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "Completa: 'Ich habe das Buch ___.'",
+      "opciones": ["lesen", "liest", "las", "gelesen"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué significa la conjunción 'obwohl'?",
+      "opciones": ["Porque", "Aunque", "Mientras", "Cuando"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué ocurre con el verbo después de 'weil'?",
+      "opciones": [
+        "Va al principio",
+        "Va en segunda posición",
+        "Va al final",
+        "Desaparece"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la frase correcta?",
+      "opciones": [
+        "Ich komme nicht, weil ich bin krank.",
+        "Ich komme nicht, weil krank ich bin.",
+        "Ich komme nicht, weil ich krank bin.",
+        "Ich komme nicht, weil bin ich krank."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué caso exige normalmente la preposición 'für'?",
+      "opciones": ["Dativo", "Acusativo", "Genitivo", "Nominativo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el plural correcto de 'Haus'?",
+      "opciones": ["Hausen", "Häuser", "Hausen", "Hauser"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'trotzdem'?",
+      "opciones": ["Por eso", "Sin embargo", "A pesar de ello", "Además"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué verbo auxiliar utiliza normalmente 'fahren' en Perfekt?",
+      "opciones": ["haben", "sein", "werden", "dürfen"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta del Perfekt?",
+      "opciones": [
+        "Ich habe gegangen.",
+        "Ich gegangen habe.",
+        "Ich bin gegangen.",
+        "Ich gehe gegangen."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'dürfen'?",
+      "opciones": ["Tener que", "Poder con permiso", "Querer", "Saber hacer"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la traducción correcta de 'Tengo que estudiar'?",
+      "opciones": [
+        "Ich will lernen.",
+        "Ich kann lernen.",
+        "Ich muss lernen.",
+        "Ich darf lernen."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué verbo modal significa 'querer'?",
+      "opciones": ["mögen", "wollen", "sollen", "dürfen"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el comparativo de 'gut'?",
+      "opciones": ["guter", "am besten", "mehr gut", "besser"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es el superlativo de 'gut'?",
+      "opciones": ["besser", "gutest", "am besten", "mehr gut"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'der Unterschied'?",
+      "opciones": ["La similitud", "La diferencia", "La decisión", "La explicación"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta?",
+      "opciones": [
+        "Das ist das Auto meines Vaters.",
+        "Das ist das Auto mein Vater.",
+        "Das ist das Auto von meines Vaters.",
+        "Das ist das Auto meines Vater."
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué caso aparece en la expresión 'des Mannes'?",
+      "opciones": ["Dativo", "Acusativo", "Genitivo", "Nominativo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'ob'?",
+      "opciones": ["Si", "Aunque", "Porque", "Entonces"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la frase correcta?",
+      "opciones": [
+        "Ich weiß nicht, ob er kommt.",
+        "Ich weiß nicht, ob kommt er.",
+        "Ich weiß nicht, er ob kommt.",
+        "Ich weiß nicht, kommt ob er."
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'sich erinnern an'?",
+      "opciones": [
+        "Olvidarse de",
+        "Recordar",
+        "Acostumbrarse a",
+        "Interesarse por"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué palabra completa la frase? 'Wenn ich Zeit hätte, ___ ich mehr lesen.'",
+      "opciones": ["werde", "würde", "wurde", "bin"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tiempo verbal expresa 'Ich würde reisen'?",
+      "opciones": ["Perfekt", "Präteritum", "Konjunktiv II", "Plusquamperfekt"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la traducción correcta de 'Si hubiera sabido eso...'?",
+      "opciones": [
+        "Wenn ich das weiß...",
+        "Wenn ich das wusste...",
+        "Wenn ich das gewusst hätte...",
+        "Wenn ich das wissen würde..."
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la frase gramaticalmente correcta?",
+      "opciones": [
+        "Morgen ich gehe nach Berlin.",
+        "Ich gehe morgen nach Berlin.",
+        "Ich morgen gehe nach Berlin.",
+        "Gehe ich morgen nach Berlin."
+      ],
+      "correcta": 1
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "titulo": "Medio",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el artículo correcto de 'Haus'?",
+      "opciones": ["der", "die", "das", "den"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el artículo correcto de 'Mann'?",
+      "opciones": ["das", "die", "der", "dem"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el artículo correcto de 'Frau'?",
+      "opciones": ["die", "der", "das", "den"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Yo soy estudiante'?",
+      "opciones": [
+        "Ich bin Student",
+        "Ich habe Student",
+        "Ich bist Student",
+        "Ich sein Student"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta del verbo 'sein' para 'du'?",
+      "opciones": ["bin", "ist", "seid", "bist"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "Completa: 'Wir ___ in Deutschland.'",
+      "opciones": ["seid", "sind", "ist", "bin"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Ich habe einen Hund'?",
+      "opciones": [
+        "Yo soy un perro",
+        "Yo tengo un perro",
+        "Yo veo un perro",
+        "Yo quiero un perro"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el plural de 'Buch'?",
+      "opciones": ["Buche", "Bücher", "Buchs", "Buchen"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el plural de 'Kind'?",
+      "opciones": ["Kinds", "Kinder", "Kinden", "Kindern"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué pronombre significa 'nosotros'?",
+      "opciones": ["ihr", "sie", "wir", "du"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se dice '¿Cómo te llamas?'?",
+      "opciones": [
+        "Wie heißt du?",
+        "Wo wohnst du?",
+        "Wer bist du?",
+        "Wie alt bist du?"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'Wo wohnst du?'?",
+      "opciones": [
+        "¿Cómo te llamas?",
+        "¿Cuántos años tienes?",
+        "¿Dónde vives?",
+        "¿Qué haces?"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la traducción correcta de 'Tengo 18 años'?",
+      "opciones": [
+        "Ich habe 18 Jahre",
+        "Ich bin 18 Jahre alt",
+        "Ich habe alt 18",
+        "Ich bin alt Jahre 18"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "Completa: 'Er ___ Deutsch.'",
+      "opciones": ["spreche", "sprichst", "spricht", "sprecht"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'klein'?",
+      "opciones": ["Grande", "Pequeño", "Largo", "Rápido"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'groß'?",
+      "opciones": ["Pequeño", "Bonito", "Grande", "Alto"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué palabra significa 'porque'?",
+      "opciones": ["aber", "und", "oder", "weil"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué palabra significa 'pero'?",
+      "opciones": ["weil", "aber", "oder", "denn"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el verbo correcto? 'Ich ___ in Berlin.'",
+      "opciones": ["wohne", "wohnst", "wohnt", "wohnen"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Nosotros aprendemos alemán'?",
+      "opciones": [
+        "Wir lernen Deutsch",
+        "Wir lernt Deutsch",
+        "Wir lernst Deutsch",
+        "Wir lerne Deutsch"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'heute'?",
+      "opciones": ["Ayer", "Mañana", "Hoy", "Siempre"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'gestern'?",
+      "opciones": ["Hoy", "Ayer", "Pronto", "Mañana"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'morgen'?",
+      "opciones": ["Tarde", "Mañana", "Noche", "Semana"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la negación correcta en alemán?",
+      "opciones": ["ja", "nicht", "bitte", "gut"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'Ich verstehe nicht'?",
+      "opciones": [
+        "Yo no hablo",
+        "Yo no entiendo",
+        "Yo no estudio",
+        "Yo no leo"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Nosotros comemos pan'?",
+      "opciones": [
+        "Wir essen Brot",
+        "Wir esst Brot",
+        "Wir isst Brot",
+        "Wir esse Brot"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta de 'haben' para 'er'?",
+      "opciones": ["hast", "habt", "hat", "haben"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa 'Schwester'?",
+      "opciones": ["Hermano", "Prima", "Madre", "Hermana"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cómo se dice 'Yo vivo en España'?",
+      "opciones": [
+        "Ich wohne in Spanien",
+        "Ich bin in Spanien",
+        "Ich habe in Spanien",
+        "Ich leben Spanien"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto de la frase?",
+      "opciones": [
+        "Deutsch lerne ich",
+        "Ich lerne Deutsch",
+        "Lerne Deutsch ich",
+        "Deutsch ich lerne"
+      ],
+      "correcta": 1
+    }
+  ]
+}

@@ -53,11 +53,13 @@
     },
     {
       "pregunta": "¿Cómo se dice 'libro' en alemán?",
+      "imagen": "img/buch.png",
       "opciones": ["Heft", "Buch", "Stift", "Tisch"],
       "correcta": 1
     },
     {
       "pregunta": "¿Cómo se dice 'escuela' en alemán?",
+      "imagen": "img/schule.png",
       "opciones": ["Schule", "Kirche", "Stadt", "Straße"],
       "correcta": 0
     },
@@ -93,6 +95,7 @@
     },
     {
       "pregunta": "¿Cómo se dice 'madre' en alemán?",
+      "imagen": "img/mutter.png",
       "opciones": ["Mutter", "Tochter", "Oma", "Tante"],
       "correcta": 0
     },
@@ -133,6 +136,7 @@
     },
     {
       "pregunta": "¿Qué significa 'Baum'?",
+      "imagen": "img/baum.png",
       "opciones": ["Árbol", "Flor", "Montaña", "Bosque"],
       "correcta": 0
     },

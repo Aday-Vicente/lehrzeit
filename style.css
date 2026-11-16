@@ -1,0 +1,406 @@
+/* ==================================================
+   RESET
+================================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+/* ==================================================
+   GENERAL
+================================================== */
+
+body{
+    background:
+        linear-gradient(
+            135deg,
+            #131313,
+            #313131
+        );
+    color:#f5f5f5;
+    min-height:100vh;
+    padding:20px;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    color:#ffd700;
+    margin-top:15px;
+    margin-bottom:20px;
+    font-size:2.5rem;
+    text-shadow:
+        0 0 10px rgba(255,215,0,.3);
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+#tituloCuestionario{
+    text-align:center;
+    color:#ffd700;
+    margin-bottom:15px;
+    font-size:2rem;
+}
+
+/* ==================================================
+   MENU
+================================================== */
+
+p {
+    margin-bottom:15px;
+    line-height:1.5;
+    text-align: justify;
+}
+
+nav {
+    display:flex;
+    justify-content:center;
+    gap:10px;
+}
+
+.btn-menu {
+    width: 400px;
+    min-width: 120px;
+    font-weight: bold;
+}
+
+.btn-menu:hover {
+    padding: 24px 20px;
+}
+
+#btn-menu1 {
+    background: black;
+    border: 1px solid white;
+    color: white;
+}
+
+#btn-menu2 {
+    background: #ffd700;
+    color: black;
+}
+
+#btn-menu3 {
+    background: #cf0000;
+    color: white;
+}
+
+/* ==================================================
+   PREGUNTA
+================================================== */
+
+#preguntaContenedor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+#pregunta{
+    background:#222;
+    border:2px solid #444;
+    border-radius:15px;
+    padding:20px;
+    text-align:center;
+    font-size:1.4rem;
+    margin-bottom:20px;
+    box-shadow:
+        0 4px 10px rgba(0,0,0,.3);
+}
+
+/* ==================================================
+   IMAGEN PREGUNTA
+================================================== */
+
+#imagenPregunta{
+    max-width:100%;
+    width:300px;
+    max-height:300px;
+    border-radius:12px;
+    border:3px solid #555;
+    background:white;
+    padding:5px;
+}
+
+/* ==================================================
+   RESPUESTAS
+================================================== */
+
+#respuestas{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+#respuestas button{
+    width:100%;
+    padding:14px;
+    background:#333;
+    color:white;
+    border:2px solid #555;
+    border-radius:10px;
+    cursor:pointer;
+    transition:.2s;
+    font-size:1rem;
+    text-align:center;
+}
+
+#respuestas button:hover{
+    background:#444;
+    border-color:#888;
+}
+
+/* Seleccionada */
+
+.seleccionada{
+    border:2px solid #ffd700 !important;
+    background:#4a3c00 !important;
+}
+
+/* Correcta */
+
+.correcta{
+    background:#1c7c31 !important;
+    color:white !important;
+    border-color:#1c7c31 !important;
+}
+
+/* Incorrecta */
+
+.incorrecta{
+    background:#b22222 !important;
+    color:white !important;
+    border-color:#b22222 !important;
+}
+
+/* ==================================================
+   MENSAJES CORRECTO / INCORRECTO
+================================================== */
+
+.mensaje-correccion{
+    padding:8px;
+    border-radius: 0 0 8px 8px;
+    font-weight:bold;
+    text-align:center;
+    width: 90%;
+    margin: 0 auto;
+    margin-top:-12px;
+    z-index: -1;
+}
+
+.correcto{
+    background:#156827;
+    color:white;
+}
+
+.incorrecto{
+    background:#921919;
+    color:white;
+}
+
+/* ==================================================
+   BOTONES GENERALES
+================================================== */
+
+button{
+    background:#cf0000;
+    color:white;
+    border:none;
+    border-radius:10px;
+    padding:12px 20px;
+    cursor:pointer;
+    transition:.2s;
+    margin-top:10px;
+    font-size:1rem;
+}
+
+button:hover{
+    background:#ff0000;
+    transform:translateY(-2px);
+}
+
+/* ==================================================
+   BOTONES QUIZ
+================================================== */
+
+#navQuiz {
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.back2menu{
+    background:#555;
+}
+
+.back2menu:hover{
+    background:#777;
+}
+
+/* ==================================================
+   MENÚ PRINCIPAL
+================================================== */
+
+body > button{
+    display:block;
+    width:300px;
+    margin:10px auto;
+}
+
+/* ==================================================
+   RANKINGS
+================================================== */
+
+ul{
+    list-style-type:disc;
+    margin:20px auto;
+    width:90%;
+}
+
+li{
+    background:#2d2d2d;
+    margin-bottom:10px;
+    padding:12px;
+    border-left:5px solid #ffd700;
+    border-radius:8px;
+    list-style-type:none;
+}
+
+.no-puntuaciones{
+    text-align:center;
+    font-size:1.2rem;
+    color:white;
+    margin-top:20px;
+}
+
+/* ==================================================
+   RESULTADO FINAL
+================================================== */
+
+.resultado-final{
+    text-align:center;
+}
+
+.resultado-final h2{
+    font-size:2rem;
+    color:#ffd700;
+}
+
+.resultado{
+    font-size:1.5rem;
+    color: white;
+    text-align:center;
+    margin-top:20px;
+}
+
+/* ==================================================
+   SCROLLBAR
+================================================== */
+
+::-webkit-scrollbar{
+    width:10px;
+}
+
+::-webkit-scrollbar-track{
+    background:#222;
+}
+
+::-webkit-scrollbar-thumb{
+    background:#666;
+    border-radius:20px;
+}
+
+/* ==================================================
+   RESPONSIVE TABLET
+================================================== */
+
+@media(max-width:768px){
+
+    body{
+
+        padding:15px;
+    }
+
+    h1{
+
+        font-size:2rem;
+    }
+
+    #tituloCuestionario{
+
+        font-size:1.5rem;
+    }
+
+    #pregunta{
+
+        font-size:1.1rem;
+    }
+
+    body > button{
+
+        width:100%;
+    }
+}
+
+/* ==================================================
+   RESPONSIVE MOVIL
+================================================== */
+
+@media(max-width:480px){
+
+    body{
+
+        padding:10px;
+    }
+
+    h1{
+
+        font-size:1.7rem;
+    }
+
+    #pregunta{
+
+        padding:15px;
+    }
+
+    #respuestas button{
+
+        font-size:.95rem;
+
+        padding:12px;
+    }
+
+    #btnAccion{
+
+        width:100%;
+    }
+}
+
+/* ==================================================
+   EFECTO TIPO QUIZ PROFESIONAL
+================================================== */
+
+#pregunta,
+#respuestas button,
+li{
+    animation:fadeIn .3s ease;
+}
+
+@keyframes fadeIn{
+
+    from{
+
+        opacity:0;
+        transform:translateY(10px);
+    }
+
+    to{
+
+        opacity:1;
+        transform:translateY(0);
+    }
+}
